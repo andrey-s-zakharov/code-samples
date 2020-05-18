@@ -1,0 +1,2 @@
+These functions parse Google Maps data from request and get or create same location objects in local DB.
+They can be used in views or serializers of Django Rest Framework as helper functions if you use Google Maps on front.
